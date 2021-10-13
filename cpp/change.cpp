@@ -3,7 +3,6 @@
 //  purpose: Figures out the number of quarters, dimes, nickels, pennies to
 //           dispence for a given amount of cents
 //       by: Diego Espinoza Rodriguez
-//     date: 1/30/2016
 //
 #include <iostream>
 using namespace std;

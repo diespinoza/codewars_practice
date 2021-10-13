@@ -2,7 +2,6 @@
 // adder.cpp
 //  purpose: Ask user for eight floating point numbers, add them, and return sum
 //       by: Diego Espinoza Rodriguez
-//     date:1/29/2016
 //
 
 #include <iostream>

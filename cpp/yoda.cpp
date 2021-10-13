@@ -2,7 +2,6 @@
 // yoda.cpp
 // purpose: Ask user for a 4 words sentence and print it out in reverse order
 //      by: Diego Espinoza Rodriguez
-//    date:1/30/2016
 //
 #include <iostream>
 

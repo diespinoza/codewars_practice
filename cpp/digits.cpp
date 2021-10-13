@@ -2,7 +2,6 @@
 // digits.cpp
 //      purpose: report number of digits in an integer
 //  modified by: Diego Espinoza Rodriguez
-//         date: 1/29/2015
 //
 
 #include <iostream>
